@@ -5,6 +5,8 @@ Not networked by the way.
 
 This mod was based off of [this mod.](https://github.com/Rateix/EditYourArmLengthMod)
 
+![image](https://github.com/user-attachments/assets/e2f32249-2116-42df-aae2-1595019c8899)
+
 ### **Requirements**
  - [BepInEx](<https://github.com/BepInEx/BepInEx/releases/latest>)
  - [Newtilla](https://github.com/Loafiat/Newtilla)
