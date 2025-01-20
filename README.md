@@ -1,6 +1,8 @@
 # EditYourSizeMod
 A size mod for Gorilla Tag where you can edit the scale of the player.
 
+Not networked by the way.
+
 This mod was based off of [this mod.](https://github.com/Rateix/EditYourArmLengthMod)
 
 ### **Requirements**
