@@ -12,7 +12,9 @@ This mod was based off of [this mod.](https://github.com/Rateix/EditYourArmLengt
  - [Newtilla](https://github.com/Loafiat/Newtilla)
 ### **Controls** 
 **Left Primary** - Resets your scale
+
 **Left Trigger** - Lowers your scale
+
 **Right Trigger** - Raises your scale
 ### **Installation**
 1. Download the [Mod](https://github.com/defaultuser0-nerd/EditYourSizeMod/releases/latest)
